@@ -1,0 +1,16 @@
+import React from 'react';
+
+function App() {
+  return (
+    <div style={ fontFamily: 'Inter, system-ui, sans-serif', padding: '2rem', maxWidth: '800px', margin: '0 auto' }>
+      <h1>Privacy-First Analytics Platform</h1>
+      <p>GDPR-friendly analytics dashboard with privacy by design.</p>
+      <div style={ marginTop: '2rem', padding: '1rem', border: '1px solid #333', borderRadius: '8px' }>
+        <h2>Project Status: Active</h2>
+        <p>This project is fully scaffolded and ready for development.</p>
+      </div>
+    </div>
+  );
+}
+
+export default App;

@@ -1,55 +1,49 @@
 ﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
-# Privacy-First Analytics Platform
+
+<div align="center">
+
+# Privacy-First Analytics
+
+**Know your users. Respect their data.**
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-ðŸš€ GDPR-friendly analytics dashboard with privacy by design.
+</div>
 
-## ðŸ” Why this project exists
+## ðŸ“– Overview
+A GDPR-compliant analytics dashboard that tracks engagement without cookies or personal identifiable information (PII). It uses hashing and aggregation to ensure privacy.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
+## âœ¨ Key Features
+- **Cookie-less:** No consent banners needed.
+- **Data Aggregation:** Hourly bucketing.
+- **Geo-hashing:** City-level accuracy only.
+- **Self-Hostable:** zero third-party dependencies.
 
-## âœ¨ Features
+## ðŸ› ï¸ Technical Stack
+**React, Recharts, Node.js, SQLite**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-- ðŸš€ Production-ready architecture
-- ðŸŽ¨ Premium UI/UX design system
-- â™¿ WCAG AA Accessible
-- ðŸ“± Fully Responsive
-- âš¡ Optimized Performance
+## ðŸš€ Getting Started
 
-## ðŸ§  Architecture
+### Prerequisites
+- Node.js 18+
+- npm or yarn
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-Built with clean separation of concerns and modern design patterns.
-
-## ðŸš€ Live Demo
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-[Deployment Link Placeholder]
-
-## ðŸ“¦ Installation
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-```bash
+### Installation
+`ash
+git clone https://github.com/ashraf-morningstar-labs/privacy-first-analytics.git
+cd privacy-first-analytics
 npm install
 npm run dev
-```
+`
 
-## ðŸ›  Tech Stack
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-Data Aggregation â€¢ Docker
-
-## ðŸ“ˆ SEO Keywords
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-privacy analytics, gdpr analytics
+## ðŸ¤ Contribution
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ðŸ“„ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-MIT
-
-
+---
+<div align="center">
+  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+</div>

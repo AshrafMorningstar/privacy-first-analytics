@@ -1,83 +1,83 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
-
-﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 
 <div align="center">
 
-# Privacy-First Analytics
+# :star: Privacy First Analytics :star:
 
-**Know your users. Respect their data.**
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/privacy-first-analytics?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/privacy-first-analytics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/privacy-first-analytics?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/privacy-first-analytics/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/privacy-first-analytics?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/privacy-first-analytics/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/privacy-first-analytics?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/privacy-first-analytics)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+**Automated, High-Performance privacy first analytics Project**
+
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/privacy-first-analytics/issues) • [Request Feature](https://github.com/AshrafMorningstar/privacy-first-analytics/issues)
 
 </div>
 
-## ðŸ“– Overview
-A GDPR-compliant analytics dashboard that tracks engagement without cookies or personal identifiable information (PII). It uses hashing and aggregation to ensure privacy.
+---
 
-## âœ¨ Key Features
-- **Cookie-less:** No consent banners needed.
-- **Data Aggregation:** Hourly bucketing.
-- **Geo-hashing:** City-level accuracy only.
-- **Self-Hostable:** zero third-party dependencies.
+## :rocket: Overview
 
-## ðŸ› ï¸ Technical Stack
-**React, Recharts, Node.js, SQLite**
+**privacy-first-analytics** is a state-of-the-art implementation utilizing Node.js, React. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering, React.js, Hooks, Components, Virtual DOM, SPA, Frontend Architecture.
 
-## ðŸš€ Getting Started
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-### Prerequisites
-- Node.js 18+
-- npm or yarn
+## :sparkles: Key Features
 
-### Installation
-`ash
-git clone https://github.com/ashraf-morningstar-labs/privacy-first-analytics.git
-cd privacy-first-analytics
-npm install
-npm run dev
-`
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Node.js, React.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
 
-## ðŸ¤ Contribution
-Contributions are welcome! Please feel free to submit a Pull Request.
+## :hammer_and_wrench: Technologies Used
 
-## ðŸ“„ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/privacy-first-analytics.git
+   cd privacy-first-analytics
+   ```
+
+2. **Install dependencies:**
+    npm install
+
+3. **Run the application:**
+    npm start
+
+## :open_file_folder: Project Structure
+
+```
+privacy-first-analytics/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-  <b>Built with â¤ï¸ by <a href="https://github.com/AshrafMorningstar">Ashraf Morningstar</a></b>
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
 </div>
-
-
----
-
-## 📜 Copyright & License
-
-© 2026 Ashraf Morningstar. All Rights Reserved.
-
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
-
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
-
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
-
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
-
----
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
